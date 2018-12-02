@@ -1,0 +1,28 @@
+﻿<Window x:Class="WpfCheckBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfCheckBox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel>
+        <Label FontWeight="Bold" ToolTip="Use this to add/remove all">Pizza Toplings</Label>
+        <CheckBox Name="AllTopings" IsThreeState="True" Checked="AllCheckChanged" Unchecked="AllCheckChanged"> Add all</CheckBox>
+        <StackPanel Margin="10 5">
+            <CheckBox Name="Salami" Checked="SingleCheckChanged" Unchecked="SingleCheckChanged">
+                <TextBlock>
+                    Salami
+                    <Run Foreground="Red" FontWeight="Bold">Spicy</Run>
+                    </TextBlock>
+            </CheckBox>
+
+            <CheckBox Name="Mozzarella" Checked="SingleCheckChanged" Unchecked="SingleCheckChanged">
+                    <TextBlock>Mozzarella</TextBlock>
+                </CheckBox>
+            <CheckBox Name="Mushroom" Checked="SingleCheckChanged" Unchecked="SingleCheckChanged">
+                <TextBlock>Mushroom</TextBlock>
+            </CheckBox>
+        </StackPanel>
+    </StackPanel>
+</Window>

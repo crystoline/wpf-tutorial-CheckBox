@@ -1,0 +1,15 @@
+C:\Users\cryst\RiderProjects\Solution1\WpfCheckBox\obj\Debug\WpfCheckBox.csprojResolveAssemblyReference.cache
+C:\Users\cryst\RiderProjects\Solution1\WpfCheckBox\obj\Debug\MainWindow.g.cs
+C:\Users\cryst\RiderProjects\Solution1\WpfCheckBox\obj\Debug\App.g.cs
+C:\Users\cryst\RiderProjects\Solution1\WpfCheckBox\obj\Debug\WpfCheckBox_MarkupCompile.cache
+C:\Users\cryst\RiderProjects\Solution1\WpfCheckBox\obj\Debug\WpfCheckBox_MarkupCompile.lref
+C:\Users\cryst\RiderProjects\Solution1\WpfCheckBox\bin\Debug\WpfCheckBox.exe.config
+C:\Users\cryst\RiderProjects\Solution1\WpfCheckBox\bin\Debug\WpfCheckBox.exe
+C:\Users\cryst\RiderProjects\Solution1\WpfCheckBox\bin\Debug\WpfCheckBox.pdb
+C:\Users\cryst\RiderProjects\Solution1\WpfCheckBox\obj\Debug\MainWindow.baml
+C:\Users\cryst\RiderProjects\Solution1\WpfCheckBox\obj\Debug\WpfCheckBox.g.resources
+C:\Users\cryst\RiderProjects\Solution1\WpfCheckBox\obj\Debug\WpfCheckBox.Properties.Resources.resources
+C:\Users\cryst\RiderProjects\Solution1\WpfCheckBox\obj\Debug\WpfCheckBox.csproj.GenerateResource.Cache
+C:\Users\cryst\RiderProjects\Solution1\WpfCheckBox\obj\Debug\WpfCheckBox.csproj.CoreCompileInputs.cache
+C:\Users\cryst\RiderProjects\Solution1\WpfCheckBox\obj\Debug\WpfCheckBox.exe
+C:\Users\cryst\RiderProjects\Solution1\WpfCheckBox\obj\Debug\WpfCheckBox.pdb
